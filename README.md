@@ -1,16 +1,21 @@
-# Lab 07 - HTTP Server
+# Lab 07 - Vanilla HTTP Server
 **Author**: Carl Olson
 **Version**: 1.0.0 
 
 ## Overview
-<!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 301 class. (i.e. What's your problem domain?) -->
+This lab project focused on creating an HTTP server and making some simple GET and POST requests.
+
 ## Getting Started
-<!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+Fork and clone respository. Install necessary dependecies. Run Nodemon and then use httpie to send requests.
+
 ## Architecture
-<!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. -->
+JavaScript, Node, Babel, ESLint, Jest, Logger, SuperAgent, Winston, httpie, cowsay, faker, dotenv.
+
 ## Change Log
-<!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
-01-01-2001 4:59pm - Application now has a fully-functional express server, with GET and POST routes for the book resource.
+04-24-2018 3:00pm - Setup environment and read through lab.
+04-24-2018 4:00pm - Site scaffolded and starting to test requests.
+04-24-2018 6:00pm - Routes working and cows showing up.
+04-24-2018 10:00pm - Tests added and passing.
+
 ## Credits and Collaborations
-<!-- Give credit (and a link) to other people or resources that helped you build this application. -->
--->
+Thanks to TAs and Instructors. 
